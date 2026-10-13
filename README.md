@@ -1,7 +1,7 @@
 <!-- ═══════════════ HERO ═══════════════ -->
  <table>
   <tr>
-    <td width="40%" align="left" valign="middle">
+    <td width="20%" align="center" valign="middle">
       <h1>Hi there <img height="24" src="https://github.com/JustAPeter/icons/blob/main/Heart.svg?raw=true" alt="❤️" /></h1>
       <h3>Senior / Staff Frontend Developer</h3>
       <p>Building thoughtful interfaces with React, Next.js and TypeScript.</p>
