@@ -5,9 +5,8 @@
 
 <br/><br/>
 
-React · Next.js · TypeScript
-
 <br/>
+React · Next.js · TypeScript
 
 </div>
 
