@@ -33,12 +33,12 @@
 
  <table>
   <tr>
-    <td width="20%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <h3>Staff / Senior Frontend Developer</h3>
       <p>Crafting things for the web, with a little obsession over the details</p>
       <p>Building useful things and making them feel right.</p>
     </td>
-     <td width="45%" align="center" valign="middle">
+     <td width="65%" align="center" valign="middle">
       <img src="https://github.com/JustAPeter/images/blob/main/assets/neon_genesis.svg?raw=true" width="100%" alt="Neon Genesis Evangelion inspired developer artwork" />
     </td>
   </tr>
@@ -49,7 +49,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="50%" valign="top">
 
 ```text
 ┌───────────────────────────────────────────────────────────┐
@@ -61,12 +61,11 @@
 ```
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <div align="center">
   <img
     src="https://github.com/JustAPeter/images/blob/main/assets/LewisHamiltonSign.gif"
-    width="400"
     alt="Lewis Hamilton signing a camera"
   />
 </div>
@@ -109,10 +108,10 @@
 
 <table>
  <tr>
-  <td width="45%" align="center" valign="middle">
+  <td width="50%" align="center" valign="middle">
    <img src="https://github.com/JustAPeter/images/blob/main/assets/ayanami_rei.png?raw=true" width="100%" alt="Neon Genesis Evangelion" />
   </td>
-   <td width="45%" align="center" valign="middle">
+   <td width="50%" align="center" valign="middle">
     <h3>a little about me</h3>
     Hey! I'm a Senior / Staff Frontend Engineer at eBay.
     I care about thoughtful interfaces, frontend architecture, performance, and the tiny details that make software feel *right*.
