@@ -15,7 +15,7 @@
   <p>
     <b>Peter Kamaev</b>
     &nbsp;·&nbsp;
-    Senior Frontend Engineer
+    Staff / Senior Frontend Engineer
   </p>
 
   <p>
@@ -35,8 +35,8 @@
   <tr>
     <td width="20%" align="center" valign="middle">
       <h3>Staff / Senior Frontend Developer</h3>
-      <p>Building thoughtful interfaces with React, Next.js and TypeScript.</p>
-      <p>Turning complex systems into simple experiences.</p>
+      <p>Crafting things for the web, with a little obsession over the details</p>
+      <p>Building useful things and making them feel right.</p>
     </td>
      <td width="45%" align="center" valign="middle">
       <img src="https://github.com/JustAPeter/images/blob/main/assets/neon_genesis.svg?raw=true" width="100%" alt="Neon Genesis Evangelion inspired developer artwork" />
