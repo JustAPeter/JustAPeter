@@ -34,11 +34,15 @@ currently in my little corner of the internet:
 </td>
 <td width="38%" align="center" valign="middle">
 
-<a href="https://tenor.com/view/lewis-hamilton-autograph-camera-sign-gif-25182600">
-  <img width="100%" src="https://media1.tenor.com/m/NpxWAWvPk5sAAAAd/lewis-hamilton.gif" alt="Lewis Hamilton signing a camera lens"/>
+<a href="https://github.com/JustAPeter">
+  <img
+    src="LewisHamiltonSign.gif"
+    width="280"
+    alt="Lewis Hamilton signing a camera"
+  />
 </a>
 
-<sub>the coolest autograph ever 🏁</sub>
+<sub>the coolest autograph ever</sub>
 
 </td>
 </tr>
