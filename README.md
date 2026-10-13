@@ -86,5 +86,5 @@ currently in my little corner of the internet:
 ---
 
 <div align="center">
-  <img src="https://github.com/JustAPeter/images/blob/main/assets/ayanami_rei.png?raw=true" width="100%" alt="Neon Genesis Evangelion" />
+  <img src="https://github.com/JustAPeter/images/blob/main/assets/ayanami_rei.png?raw=true" width="20%" alt="Neon Genesis Evangelion" />
 </div>
