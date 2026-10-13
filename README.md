@@ -3,8 +3,6 @@
 
 <h1 align="center">Hi there <img height="24" src="https://github.com/KorradoInganamorte/icons/blob/main/Heart.svg"/><h3 align="center">Staff/Senior Frontend Developer<h3/><h1/>
 
-<sub> React · Next.js · TypeScript </sub>
-
 </div>
 
 ---
@@ -36,9 +34,11 @@ currently in my little corner of the internet:
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img width="100%" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="A cat typing on a computer"/>
+<a href="https://tenor.com/view/lewis-hamilton-autograph-camera-sign-gif-25182600">
+  <img width="100%" src="https://media1.tenor.com/m/NpxWAWvPk5sAAAAd/lewis-hamilton.gif" alt="Lewis Hamilton signing a camera lens"/>
+</a>
 
-<sub>my productivity supervisor</sub>
+<sub>the coolest autograph ever 🏁</sub>
 
 </td>
 </tr>
