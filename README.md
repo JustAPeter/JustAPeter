@@ -34,9 +34,9 @@ currently in my little corner of the internet:
 </td>
 <td width="38%" align="center" valign="middle">
 
-<a href="https://github.com/JustAPeter">
+<a href="[https://github.com/JustAPeter](https://github.com/JustAPeter/images/blob/main/LewisHamiltonSign.gif)">
   <img
-    src="./LewisHamiltonSign.gif"
+    src="[./LewisHamiltonSign.gif](https://github.com/JustAPeter/images/blob/main/LewisHamiltonSign.gif)"
     width="280"
     alt="Lewis Hamilton signing a camera"
   />
