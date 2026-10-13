@@ -111,7 +111,7 @@
   <td width="50%" align="center" valign="middle">
    <img src="https://github.com/JustAPeter/images/blob/main/assets/ayanami_rei.png?raw=true" width="100%" alt="Neon Genesis Evangelion" />
   </td>
-   <td width="50%" align="center" valign="middle">
+   <td width="50%" align="left" valign="middle">
     <h3>a little about me</h3>
     Hey! I'm a Senior / Staff Frontend Engineer at eBay.
     I care about thoughtful interfaces, frontend architecture, performance, and the tiny details that make software feel *right*.
