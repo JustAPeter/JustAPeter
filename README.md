@@ -67,7 +67,7 @@ currently in my little corner of the internet:
 
 ### 🌙 find me in the wild
 
-[![GitHub](https://img.shields.io/badge/GitHub-101820?style=flat-square&logo=github&logoColor=D8FFF4)]([https://github.com/YOUR_USERNAME](https://github.com/JustAPeter))
+[![GitHub](https://img.shields.io/badge/GitHub-101820?style=flat-square&logo=github&logoColor=D8FFF4)]((https://github.com/JustAPeter))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-101820?style=flat-square&logo=linkedin&logoColor=72F1B8)]([YOUR_LINKEDIN_URL](https://github.com/JustAPeter))
 
 <br/>
