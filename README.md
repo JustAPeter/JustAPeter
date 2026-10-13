@@ -1,11 +1,13 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
 
-<h1 align="center">Hi there <img height="24" src="https://github.com/KorradoInganamorte/icons/blob/main/Heart.svg"/><h3 align="center">Staff/Senior Frontend Developer<h3/><h1/>
+<h1 align="center">Hi there <img height="24" src="https://github.com/JustAPeter/icons/blob/main/Heart.svg"/><h3 align="center">Staff/Senior Frontend Developer<h3/><h1/>
+
+<img src="./assets/hero.svg" width="100%" alt="A cozy developer desk with a sleepy cat and a rainy night outside"/>
+
+<br/>
 
 </div>
-
----
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
