@@ -58,24 +58,6 @@ currently in my little corner of the internet:
 
 ---
 
-<div align="center">
-
-### 🌃 a note from my desk
-
-```text
-23:48 ──────────────────────── ☾
-
-the city is still awake.
-one more song, one more commit,
-and then ... probably one more.
-
-status: cozy
-```
-
-<sub>currently somewhere between a side quest and a refactor.</sub>
-
-</div>
-
 <!-- ═══════════════ FOOTER ═══════════════ -->
 
 <div align="center">
