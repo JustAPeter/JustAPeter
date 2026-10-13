@@ -1,6 +1,6 @@
 <h1 align="center">Hi there <img height="24" src="https://github.com/KorradoInganamorte/icons/blob/main/Heart.svg"/><h3 align="center">Staff/Senior Frontend Developer<h3/><h1/>
 
-## // SYSTEM METRICS
+## SYSTEM METRICS
 
 <p align="center">
   <img
@@ -22,7 +22,7 @@
   />
 </p>
 
-## // COMBAT RECORD
+## COMBAT RECORD
 
 <p align="center">
   <a href="https://www.codewars.com/users/JustAPeter">
@@ -33,8 +33,8 @@
   </a>
 </p>
 
-## // VERIFIED CREDENTIALS
+## VERIFIED CREDENTIALS
 
 | Certification | Issuer | Verification |
 |---|---|---|
-| Enterprise Apps and Agents | Versel | [Verify ↗]([CERTIFICATE_URL](https://vercel.com/draft/academy/enterprise-apps-agents/certificate/nUpKuieqekJV8rkuzWbmwHMe)) |
+| Enterprise Apps and Agents | Versel | [CERTIFICATE_URL](https://vercel.com/draft/academy/enterprise-apps-agents/certificate/nUpKuieqekJV8rkuzWbmwHMe) |
