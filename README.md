@@ -37,7 +37,7 @@ currently in my little corner of the internet:
 <div align="center">
   <img
     src="https://github.com/JustAPeter/images/blob/main/LewisHamiltonSign.gif"
-    width="300"
+    width="400"
     alt="Lewis Hamilton signing a camera"
   />
 </div>
