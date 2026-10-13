@@ -22,29 +22,14 @@
 <tr>
 <td width="62%" valign="top">
 
-### ☕ a little about me
-
-Hey! I'm a **Senior / Staff Frontend Engineer at eBay**.
-
-I care about thoughtful interfaces, frontend architecture, performance, and the tiny details that make software feel *right*.
-
-When I'm not moving pixels around, I'm probably exploring some weird side project, listening to music, or overthinking a CSS animation.
-
 ```text
-currently in my little corner of the internet:
-┌────────────────────────────────────────┐
-│  mood           rainy city evening     │
-│  setup          too many browser tabs  │
-│  soundtrack     on repeat              │
-│  side quest     building something     │
-└────────────────────────────────────────┘
-```
 ┌───────────────────────────────────────────────────────────────┐
 │  [01] ARCHITECTURE    Feature-Sliced Design · Modular UI      │
 │  [02] PERFORMANCE     Virtualization · Rendering · Data flow  │
 │  [03] REAL-TIME       WebSockets · Live updates               │
 │  [04] TOOLING         TypeScript · React · Next.js            │
 └───────────────────────────────────────────────────────────────┘
+```
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -94,5 +79,22 @@ currently in my little corner of the internet:
 ---
 
 <div align="center">
+  ### ☕ a little about me
+
+Hey! I'm a **Senior / Staff Frontend Engineer at eBay**.
+
+I care about thoughtful interfaces, frontend architecture, performance, and the tiny details that make software feel *right*.
+
+When I'm not moving pixels around, I'm probably exploring some weird side project, listening to music, or overthinking a CSS animation.
+
+```text
+currently in my little corner of the internet:
+┌────────────────────────────────────────┐
+│  mood           rainy city evening     │
+│  setup          too many browser tabs  │
+│  soundtrack     on repeat              │
+│  side quest     building something     │
+└────────────────────────────────────────┘
+```
   <img src="https://github.com/JustAPeter/images/blob/main/assets/ayanami_rei.png?raw=true" width="40%" alt="Neon Genesis Evangelion" />
 </div>
