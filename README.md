@@ -36,7 +36,7 @@ currently in my little corner of the internet:
 
 <div align="center">
   <img
-    src="https://github.com/JustAPeter/images/blob/main/LewisHamiltonSign.gif"
+    src="https://github.com/JustAPeter/images/blob/main/assets/LewisHamiltonSign.gif"
     width="400"
     alt="Lewis Hamilton signing a camera"
   />
