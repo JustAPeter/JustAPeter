@@ -1,5 +1,7 @@
 <!-- ═══════════════ HERO ═══════════════ -->
- <table>
+<h1>Hi there <img height="24" src="https://github.com/JustAPeter/icons/blob/main/Heart.svg?raw=true" alt="❤️" /></h1>
+ 
+<table>
   <tr>
     <td width="20%" align="center" valign="middle">
       <h1>Hi there <img height="24" src="https://github.com/JustAPeter/icons/blob/main/Heart.svg?raw=true" alt="❤️" /></h1>
