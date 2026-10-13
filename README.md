@@ -34,14 +34,13 @@ currently in my little corner of the internet:
 </td>
 <td width="38%" align="center" valign="middle">
 
-<a href="[https://github.com/JustAPeter](https://github.com/JustAPeter/images/blob/main/LewisHamiltonSign.gif)">
+<div align="center">
   <img
-    src="[./LewisHamiltonSign.gif](https://github.com/JustAPeter/images/blob/main/LewisHamiltonSign.gif)"
-    width="280"
+    src="https://raw.githubusercontent.com/JustAPeter/images/main/LewisHamiltonSign.gif"
+    width="300"
     alt="Lewis Hamilton signing a camera"
   />
-</a>
-
+</div>
 <sub>the coolest autograph ever</sub>
 
 </td>
