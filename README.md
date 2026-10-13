@@ -1,13 +1,22 @@
 <!-- ═══════════════ HERO ═══════════════ -->
-<div align="center">
-
-<h1 align="center">Hi there <img height="24" src="https://github.com/JustAPeter/icons/blob/main/Heart.svg"/><h3 align="center">Staff/Senior Frontend Developer<h3/><h1/>
-
-<img src="https://github.com/JustAPeter/images/blob/main/assets/neon_genesis.svg" width="100%" alt="A cozy developer desk with a sleepy cat and a rainy night outside"/>
-
-<br/>
-
-</div>
+ <table>
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github.com/JustAPeter/images/blob/main/assets/neon_genesis.svg?raw=true" width="100%" alt="Neon Genesis Evangelion inspired developer artwork" />
+    </td>
+    <td width="55%" align="left" valign="middle">
+      <h1>Hi there <img height="24" src="https://github.com/JustAPeter/icons/blob/main/Heart.svg?raw=true" alt="❤️" /></h1>
+      <h3>Senior / Staff Frontend Developer</h3>
+      <p>Building thoughtful interfaces with React, Next.js and TypeScript.</p>
+      <p>Turning complex systems into simple experiences.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
