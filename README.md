@@ -36,7 +36,7 @@ currently in my little corner of the internet:
 
 <a href="https://github.com/JustAPeter">
   <img
-    src="LewisHamiltonSign.gif"
+    src="./LewisHamiltonSign.gif"
     width="280"
     alt="Lewis Hamilton signing a camera"
   />
