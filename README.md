@@ -1,4 +1,5 @@
 <!-- ═══════════════ HERO ═══════════════ -->
+<div align="center">
 <h1>Hi there <img height="24" src="https://github.com/JustAPeter/icons/blob/main/Heart.svg?raw=true" alt="❤️" /></h1>
  
 <table>
@@ -14,6 +15,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
 
