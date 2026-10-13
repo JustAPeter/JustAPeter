@@ -3,7 +3,7 @@
   <tr>
     <td width="20%" align="center" valign="middle">
       <h1>Hi there <img height="24" src="https://github.com/JustAPeter/icons/blob/main/Heart.svg?raw=true" alt="❤️" /></h1>
-      <h3>Senior / Staff Frontend Developer</h3>
+      <h3>Staff / Senior Frontend Developer</h3>
       <p>Building thoughtful interfaces with React, Next.js and TypeScript.</p>
       <p>Turning complex systems into simple experiences.</p>
     </td>
