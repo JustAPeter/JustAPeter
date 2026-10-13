@@ -82,3 +82,9 @@ currently in my little corner of the internet:
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:72F1B8,50:37B6A5,100:101820&section=footer" width="100%" />
 
 </div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/JustAPeter/images/blob/main/assets/ayanami_rei.png?raw=true" width="100%" alt="Neon Genesis Evangelion" />
+</div>
