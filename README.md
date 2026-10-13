@@ -39,6 +39,12 @@ currently in my little corner of the internet:
 │  side quest     building something     │
 └────────────────────────────────────────┘
 ```
+┌───────────────────────────────────────────────────────────────┐
+│  [01] ARCHITECTURE    Feature-Sliced Design · Modular UI      │
+│  [02] PERFORMANCE     Virtualization · Rendering · Data flow  │
+│  [03] REAL-TIME       WebSockets · Live updates               │
+│  [04] TOOLING         TypeScript · React · Next.js            │
+└───────────────────────────────────────────────────────────────┘
 
 </td>
 <td width="38%" align="center" valign="middle">
