@@ -1,12 +1,6 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:101820,50:173B3A,100:101820&text=hey,%20I'm%20YOUR_NAME&fontColor=D8FFF4&fontSize=46&fontAlignY=43&desc=frontend%20engineer%20%E2%80%A2%20somewhere%20between%20pixels%20and%20coffee&descAlignY=65&descSize=13" />
-
-<br/>
-
-<sub>東京の夜 · late-night builds · good music</sub>
+<h1 align="center">Hi there <img height="24" src="https://github.com/KorradoInganamorte/icons/blob/main/Heart.svg"/><h3 align="center">Staff/Senior Frontend Developer<h3/><h1/>
 
 <br/><br/>
 
