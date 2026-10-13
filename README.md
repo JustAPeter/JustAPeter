@@ -29,12 +29,12 @@ When I'm not moving pixels around, I'm probably exploring some weird side projec
 
 ```text
 currently in my little corner of the internet:
-┌────────────────────────────────┐
-│  mood       rainy city evening │
-│  setup      too many browser tabs
-│  soundtrack on repeat          │
-│  side quest  building something│
-└────────────────────────────────┘
+┌────────────────────────────────────────┐
+│  mood           rainy city evening     │
+│  setup          too many browser tabs  │
+│  soundtrack     on repeat              │
+│  side quest     building something     │
+└────────────────────────────────────────┘
 ```
 
 </td>
