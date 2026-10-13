@@ -79,18 +79,15 @@
 ---
 
 <table>
-  <tr>
+ <tr>
+  <td width="45%" align="center" valign="middle">
+   <img src="https://github.com/JustAPeter/images/blob/main/assets/ayanami_rei.png?raw=true" width="100%" alt="Neon Genesis Evangelion" />
+  </td>
    <td width="45%" align="center" valign="middle">
-     <img src="https://github.com/JustAPeter/images/blob/main/assets/ayanami_rei.png?raw=true" width="40%" alt="Neon Genesis Evangelion" />
-   </td>
-    <td width="45%" align="center" valign="middle">
-     ### a little about me
-
-   Hey! I'm a **Senior / Staff Frontend Engineer at eBay**.
-    
-   I care about thoughtful interfaces, frontend architecture, performance, and the tiny details that make software feel *right*.
-    
-   When I'm not moving pixels around, I'm probably exploring some weird side project, listening to music, or overthinking a CSS animation.
+    <h3>a little about me</h3>
+    Hey! I'm a **Senior / Staff Frontend Engineer at eBay**.
+    I care about thoughtful interfaces, frontend architecture, performance, and the tiny details that make software feel *right*.
+    When I'm not moving pixels around, I'm probably exploring some weird side project, listening to music, or overthinking a CSS animation.
 
    ```text
    currently in my little corner of the internet:
