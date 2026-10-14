@@ -114,7 +114,7 @@
    <td width="50%" align="left" valign="middle">
     <h3>a little about me</h3>
     Hey! I'm a Senior / Staff Frontend Engineer at eBay.
-    I care about thoughtful interfaces, frontend architecture, performance, and the tiny details that make software feel *right*.
+    I care about thoughtful interfaces, frontend architecture, performance, and the tiny details that make software feel right.
     When I'm not moving pixels around, I'm probably exploring some weird side project, listening to music, or overthinking a CSS animation.
 
    ```text
